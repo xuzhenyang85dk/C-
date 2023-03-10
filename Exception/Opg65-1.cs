@@ -31,7 +31,7 @@ namespace Exception
                 catch (System.Exception ex)
                 {
                     PrintText("Der er sket en fejl " + ex.Message);
-                    PrintText("Prøv igen - du har i alt " + (3-i) + " forsøg");
+                    PrintText("Prøv igen - du har i alt :" + (3-i) + " forsøg");
 
                 }
             }
