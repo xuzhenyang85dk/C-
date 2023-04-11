@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Navn": "A",
+    "ErDansk": true,
+    "Dato": "1966-01-01T00:00:00"
+  },
+  {
+    "Id": 2,
+    "Navn": "B",
+    "ErDansk": true,
+    "Dato": "2003-01-01T00:00:00"
+  },
+  {
+    "Id": 3,
+    "Navn": "C",
+    "ErDansk": true,
+    "Dato": "1988-01-01T00:00:00"
+  }
+]
